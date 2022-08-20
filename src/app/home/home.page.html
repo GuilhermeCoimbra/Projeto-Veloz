@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-toolbar>
+      <ion-title class="title">
+        Pet Store       
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+<ion-content [fullscreen]="true">  
+    <ion-item *ngFor="let item of items | orderBy: key: reverse" class="data">
+      <text class="id">{{item.id}}</text>
+      <text class="type">{{item.type}}</text>
+      <text class="price">{{item.price}}</text>
+    </ion-item> 
+  <ion-card>
+    <ion-toolbar>
+    <ion-text class="text">
+      Click on the buttons to put the List in Order by:
+    </ion-text>   
+    </ion-toolbar>
+  </ion-card>
+    <button (click)="sort('id')" class="btn-id"> Id </button>
+    <button (click)="sort('type')" class="btn-type"> Type </button>
+    <button (click)="sort('price')"class="btn-price"> Price </button>
+</ion-content>
