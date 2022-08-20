@@ -1,4 +1,4 @@
-# Projeto-Veloz
+# Projeto Veloz
 
 Sobre o Projeto
 Projeto voltado para o Processo Seletivo Veloz, Aplicação produzida através do Ionic com intuito de Receber dados de uma API e organizá-los em seguida.
