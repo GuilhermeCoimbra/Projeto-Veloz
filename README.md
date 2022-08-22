@@ -16,7 +16,7 @@ Quando pedir o diretório para o NODEJS, digite C:\Apps\nodejs
 
 Instalação e configuração das duas versões atuais LTS do NodeJS.
 
-Cada linha abaixo é um comando que deverá ser executado no terminal.
+Cada linha abaixo é um comando que deverá ser executado no terminal(Prompt de Comando com Administrador).
 
 nvm list available
 
@@ -25,6 +25,10 @@ nvm install 14.19.0
 nvm ls
 
 nvm use 14.19.0
+
+npm install --global --force @angular/cli @capacitor/core @capacitor/cli @compodoc/compodoc @ionic/cli bower cordova eslint express express-generator jade jade-cli jshint mysql node-sass nodemon pug pug-error pug-lexer pug-parser tslint typescript yarn webpack parcel
+
+Talvez esse ultimo demore um pouco, Tenha paciência 😴
 
 <h4> 2 - Abrindo Projeto no Ionic Framework </h4>
 
