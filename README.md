@@ -10,3 +10,5 @@ Imagens do Processo de Criação
 
 ![image](https://user-images.githubusercontent.com/88843617/185765194-80038570-44ed-4bf3-83b9-6d1e212ad63f.png)
 
+
+[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Guilherme de Ornelas Coimbra</sub>](https://github.com/GuilhermeCoimbra)
