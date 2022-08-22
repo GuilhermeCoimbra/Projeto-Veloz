@@ -43,7 +43,7 @@ No Prompt de Comando digite "npm install" e pressione enter >> Após o processo 
 <h1 align="left">⚠️Atenção⚠️</h1>
 Atenção para um problema de CORS no qual os navegadores impedem "puxar" os dados da API, em Caso de testes utilize uma extensão chamada "Moesif Origin & CORS" diponível no Google Crome e Mozila Firefox para os dados aparecerem igual a imagem abaixo.
 
-<h1 align="left"> Imagens do Processo de Criação </h1>
+<h1 align="left"> Resultado Final </h1>
 
 ![image](https://user-images.githubusercontent.com/88843617/186027598-4e4fbd93-9924-40ef-8b40-da8884ab9194.png)
 
