@@ -45,6 +45,7 @@ Atenção para um problema de CORS no qual os navegadores impedem "puxar" os dad
 
 <h1 align="left"> Imagens do Processo de Criação </h1>
 
-![image](https://user-images.githubusercontent.com/88843617/185765194-80038570-44ed-4bf3-83b9-6d1e212ad63f.png)
+![image](https://user-images.githubusercontent.com/88843617/186027598-4e4fbd93-9924-40ef-8b40-da8884ab9194.png)
+
 
 
